@@ -5,7 +5,7 @@ import profileImage from '../assets/koushik-das.jpg';
 
 const Resume = () => {
     useEffect(() => {
-        document.title = "Resume";
+        document.title = "Koushik Das Resume";
     }, []);
 
     return (
