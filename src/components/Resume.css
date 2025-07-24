@@ -179,6 +179,11 @@ div#skillset p {
         width: 100%;
     }
 
+    .row.hero-profile .col-md-4.col-12 {
+        display: flex;
+        justify-content: center;
+    }
+
     ul {
         margin-left: -1rem;
     }
